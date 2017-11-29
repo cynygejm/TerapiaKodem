@@ -2,7 +2,7 @@
 background-color: #f0f5f5;
 padding-top: 30px;
 padding-bottom: 30px;
-border: 2px solid;
+border: 1px solid;
 border-color: #4e7e7e;
 color: #324e4e;
 height:580px;
@@ -72,7 +72,7 @@ footer {
   margin-top: 50px;
   padding-left: 130px;
   padding-right: 130px;
-  padding-top: 40;
-padding-bottom: 4px;
-font-family:Times;
+  padding-top: 17px;
+ padding-bottom: 17px;
+ font-family:Times;
 }
