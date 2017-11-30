@@ -1,30 +1,33 @@
 .container {
 background-color: #f0f5f5;
-padding-top: 30px;
+padding-top: 10px;
 padding-bottom: 30px;
 border: 1px solid;
 border-color: #4e7e7e;
-color: #324e4e;
+ border-radius: .50rem;
+color: black;
 height:580px;
+font-family: 'Life Savers', cursive;
 }
 
 header {
-  background-color: #e6ffe6;
+  background-color: #ddf1da;
   text-align: center;
-  font-family:Times New Roman;
 
+ border-radius: .50rem;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: 40px;
   margin-right: 40px;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-bottom: 40px;
 
   padding-bottom: 2px;
 }
 h1 {
+  padding-top: 10px;
   font-size: 40px;
-  color:#476b6b;
+  color:black;
 }
 main {
 background-color: #e0ebeb;
@@ -34,30 +37,30 @@ margin-top: 20px;
 margin-bottom:20px;
 padding-top: 20px;
 padding-bottom: 20px;
-
+ border-radius: .50rem;
 }
 #myApps {
-  background-color:#ffe6ee;
+  background-color:#e5e5ff;
   text-align: center;
   font-size: 25px;
-color:#141f1f;
+color:black;
   padding-top: 20px;
   padding-bottom: :30px;
   margin-left: 40px;
   margin-right: 40px;
   margin-top: 40px;
   margin-bottom: 40px;
-
+ border-radius: .50rem;
 }
 .myApp {
      width: 200px;
     height: 70px;
      padding: 2px;
      margin: 20px;
-     font-family: Times new roman;
+     font-family: 'Life Savers', cursive;
      font-size: 20px;
-     color:#141f1f;
-
+     color:black;
+ border-radius: .50rem;
      background: white;
 
    }
@@ -65,14 +68,16 @@ color:#141f1f;
 
 footer {
   text-align: center;
-  color: #141f1f;
+   border-radius: .50rem;
+
   background-color: #e0ebeb;
   margin-left: 15px;
   margin-right: 15px;
-  margin-top: 50px;
+  margin-top: 30px;
   padding-left: 130px;
   padding-right: 130px;
   padding-top: 17px;
  padding-bottom: 17px;
- font-family:Times;
+ font-family: 'Life Savers', cursive;
+ color: black;
 }
