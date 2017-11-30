@@ -7,7 +7,8 @@ border-color: #4e7e7e;
  border-radius: .50rem;
 color: black;
 height:580px;
-font-family: 'Life Savers', cursive;
+
+font-family: 'IM Fell English', serif;
 }
 
 header {
@@ -27,6 +28,7 @@ header {
 h1 {
   padding-top: 10px;
   font-size: 40px;
+
   color:black;
 }
 main {
@@ -57,8 +59,9 @@ color:black;
     height: 70px;
      padding: 2px;
      margin: 20px;
-     font-family: 'Life Savers', cursive;
-     font-size: 20px;
+
+font-family: 'IM Fell English', serif;
+     font-size: 25px;
      color:black;
  border-radius: .50rem;
      background: white;
@@ -78,6 +81,7 @@ footer {
   padding-right: 130px;
   padding-top: 17px;
  padding-bottom: 17px;
- font-family: 'Life Savers', cursive;
+ font-family: 'IM Fell English', serif;
+
  color: black;
 }
