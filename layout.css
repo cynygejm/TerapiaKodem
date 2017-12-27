@@ -7,7 +7,8 @@ border-color: #4e7e7e;
  border-radius: .50rem;
 color: black;
 height:600px;
-font-family: 'IM Fell English', serif;}
+font-family: 'IM Fell English', serif;
+}
 header {
   background-color: #ddf1da;
   text-align: center;
@@ -18,11 +19,13 @@ header {
   margin-right: 40px;
   margin-top: 20px;
   margin-bottom: 40px;
-  padding-bottom: 2px;}
+  padding-bottom: 2px;
+}
 h1 {
   padding-top: 10px;
   font-size: 40px;
-  color:black;}
+  color:black;
+}
 main {
 background-color: #e0ebeb;
 margin-left: 15px;
@@ -31,7 +34,8 @@ margin-top: 20px;
 margin-bottom:20px;
 padding-top: 20px;
 padding-bottom: 20px;
- border-radius: .50rem;}
+ border-radius: .50rem;
+}
 #myApps {
   background-color:#e0e0eb;
   text-align: center;
@@ -43,7 +47,8 @@ padding-bottom: 20px;
   margin-right: 40px;
   margin-top: 40px;
   margin-bottom: 40px;
- border-radius: .50rem;}
+ border-radius: .50rem;
+}
 .myApp {
      width: 200px;
     height: 70px;
@@ -53,7 +58,8 @@ padding-bottom: 20px;
      font-size: 25px;
      color:black;
     border-radius: .50rem;
-   background: white;}
+   background: white;
+ }
 footer {
   text-align: center;
    border-radius: .50rem;
@@ -66,4 +72,5 @@ footer {
   padding-top: 17px;
  padding-bottom: 17px;
  font-family: 'IM Fell English', serif;
- color: black;}
+ color: black;
+}
